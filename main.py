@@ -13,4 +13,3 @@ paddle_a.color("white")
 paddle_a.spasize(stretch_wid=5, stetch_len=1)
 paddle_a.penup()
 paddle_agotol(-350, 0)
-#vehg3iheriw
